@@ -1,0 +1,1180 @@
+/* montserrat-regular - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/montserrat-v25-latin-regular.eot');
+  /* IE9 Compat Modes */
+  src: local(''),
+    url('../fonts/montserrat-v25-latin-regular.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/montserrat-v25-latin-regular.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/montserrat-v25-latin-regular.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/montserrat-v25-latin-regular.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/montserrat-v25-latin-regular.svg#Montserrat') format('svg');
+  /* Legacy iOS */
+}
+
+/* montserrat-500 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/montserrat-v25-latin-500.eot');
+  /* IE9 Compat Modes */
+  src: local(''),
+    url('../fonts/montserrat-v25-latin-500.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/montserrat-v25-latin-500.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/montserrat-v25-latin-500.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/montserrat-v25-latin-500.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/montserrat-v25-latin-500.svg#Montserrat') format('svg');
+  /* Legacy iOS */
+}
+
+/* montserrat-600 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/montserrat-v25-latin-600.eot');
+  /* IE9 Compat Modes */
+  src: local(''),
+    url('../fonts/montserrat-v25-latin-600.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/montserrat-v25-latin-600.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/montserrat-v25-latin-600.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/montserrat-v25-latin-600.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/montserrat-v25-latin-600.svg#Montserrat') format('svg');
+  /* Legacy iOS */
+}
+
+/* montserrat-700 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/montserrat-v25-latin-700.eot');
+  /* IE9 Compat Modes */
+  src: local(''),
+    url('../fonts/montserrat-v25-latin-700.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/montserrat-v25-latin-700.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/montserrat-v25-latin-700.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/montserrat-v25-latin-700.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/montserrat-v25-latin-700.svg#Montserrat') format('svg');
+  /* Legacy iOS */
+}
+
+/* montserrat-800 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/montserrat-v25-latin-800.eot');
+  /* IE9 Compat Modes */
+  src: local(''),
+    url('../fonts/montserrat-v25-latin-800.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/montserrat-v25-latin-800.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/montserrat-v25-latin-800.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/montserrat-v25-latin-800.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/montserrat-v25-latin-800.svg#Montserrat') format('svg');
+  /* Legacy iOS */
+}
+
+/* montserrat-900 - latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/montserrat-v25-latin-900.eot');
+  /* IE9 Compat Modes */
+  src: local(''),
+    url('../fonts/montserrat-v25-latin-900.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/montserrat-v25-latin-900.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/montserrat-v25-latin-900.woff') format('woff'),
+    /* Modern Browsers */
+    url('../fonts/montserrat-v25-latin-900.ttf') format('truetype'),
+    /* Safari, Android, iOS */
+    url('../fonts/montserrat-v25-latin-900.svg#Montserrat') format('svg');
+  /* Legacy iOS */
+}
+
+/* ----------------------------header start--------------------------------- */
+
+
+body {
+  font-family: Montserrat;
+  font-size: 14px;
+overflow-x: hidden;
+}
+
+.navbar-brand {
+  padding: 15px 130px;
+}
+
+.head-color {
+  background-color: rgba(255, 255, 255, .7);
+}
+
+.logo img {
+  height: 60px;
+  max-height: 100%;
+}
+
+.nav {
+  margin: 18px 148PX 0 0;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #2c2c2a;
+  text-transform: uppercase;
+}
+
+.nav>li>a {
+  padding: 7px 18px;
+}
+
+.caret {
+  margin-top: -3px;
+}
+
+.caret {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: 2px;
+  vertical-align: middle;
+  border-top: 4px solid;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+}
+
+/* ----------------------------header and--------------------------------- */
+
+/* --------------------------view strat-------------------------------- */
+
+.carousel {
+  position: relative;
+}
+
+
+
+.feature-block {
+  margin: 50px 0;
+}
+
+.feature-block h5 {
+  font-size: 18px;
+  margin: 20px 0 13px;
+  color: #384047;
+  font-weight: 700;
+  font-family: inherit;
+}
+
+a {
+  color: #2c2c2a;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: 'droid serif', Arial, sans-serif;
+}
+
+a:hover {
+  color: #e7ad47;
+  transform: translate(0.3s);
+}
+
+
+.has-margin-bottom {
+  margin-bottom: 50px;
+}
+
+.highlight-bg {
+  background: #f9f1e6;
+  padding: 24px 0;
+
+}
+
+
+/* --------------------------view and-------------------------------- */
+
+/* --------------------------event strat-------------------------------- */
+
+.el-block {
+  padding: 50px 50px;
+}
+
+.event-cta {
+  text-align: left;
+}
+
+/* .event-cta {
+  text-align: center;
+} */
+/* .ec-txt {
+  float: left;
+} */
+.event-cta span {
+  color: #9f978c;
+  font-family: montserrat, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.event-cta p {
+  margin-bottom: 0;
+}
+
+.event-cta p {
+  font-size: 23px;
+  margin: 0;
+  margin-bottom: 10px;
+  font-weight: 700;
+  color: #393939;
+}
+
+.event-cta .btn {
+  float: right;
+}
+
+.btn-primary.eve {
+  color: #483f34;
+  background-color: #ffc55f;
+  border-color: #e7ad47;
+  margin-right: 50px;
+}
+
+.btn-lg,
+.btn-group-lg>.btn {
+  padding: 14px 25px;
+  margin-top: -60px;
+  font-size: 17px;
+  line-height: 1.3;
+  border-radius: 4px;
+}
+
+.btn {
+  font-family: montserrat, Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  
+}
+
+
+.has-margin-bottom {
+  margin-bottom: 50px;
+}
+
+.highlight-bg {
+  background: #f9f1e6;
+  padding: 24px 0;
+}
+
+
+/* --------------------------event and-------------------------------- */
+
+/* --------------------------LATEST start-------------------------------- */
+.section-title {
+  text-align: center;
+  color: #53504c;
+  min-height: 40px;
+  margin-bottom: 40px;
+}
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+
+
+.section-title.left-align-desktop {
+  text-align: left;
+
+}
+
+.section-title h4 {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: montserrat, Arial, sans-serif;
+}
+
+
+.has-margin-bottom {
+  margin-bottom: 50px;
+}
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-md-4 {
+  width: 33.33333333%;
+}
+
+.col-md-8 {
+  width: 66.66666667%;
+}
+
+.media-heading {
+  color: #53504c;
+
+}
+
+.media-heading {
+  margin: 0 0 5px;
+}
+
+.media-heading {
+  font-size: 20px;
+  font-family: montserrat, Arial, sans-serif;
+  font-weight: 700;
+
+}
+
+h4 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.media-content p {
+  line-height: 1.6;
+  font-size: 14px;
+  font-family: 'droid serif', Arial, sans-serif;
+  font-weight: 300;
+
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+.link-reverse {
+  color: #e95d00;
+}
+
+.link-reverse a {
+  color: #2c2c2a;
+  text-decoration: none;
+}
+
+.link-reverse a {
+  color: #428bca;
+  text-decoration: none;
+}
+
+a {
+  background: 0 0;
+}
+
+/* --------------------------LATEST and-------------------------------- */
+
+
+
+/* LATEST BULLETIN strat */
+
+.col-md-3 {
+  width: 25%;
+}
+
+.well {
+  background: #f9f1e6;
+  border: 0;
+  box-shadow: none;
+}
+
+.btn-primary {
+  color: #483f34;
+  background-color: #ffc55f;
+  border-color: #e7ad47;
+}
+
+
+
+.well .section-title {
+  margin-bottom: 20px;
+}
+
+.section-title {
+  text-align: center;
+  color: #53504c;
+  min-height: 40px;
+  margin-bottom: 40px;
+}
+
+.section-title h4 {
+  position: relative;
+
+}
+
+
+h4 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.section-title.left-align-desktop h4:after {
+  left: 0;
+  margin-left: 0;
+}
+
+.section-title h4:after {
+  position: absolute;
+  content: "";
+  left: 50%;
+  bottom: -12px;
+  width: 30px;
+  height: 4px;
+  background: #919191;
+  margin-left: -15px;
+}
+
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.list-group {
+  margin-bottom: 0;
+}
+
+.list-group {
+  padding-left: 0;
+  margin-bottom: 20px;
+}
+
+.list-group-item:first-child {
+  border-top: 0;
+}
+
+a.list-group-item {
+  color: #555;
+}
+
+.list-group-item {
+  background: url(../images/play.png) no-repeat 0 15px transparent;
+  border: 0;
+  border-top: 1px solid #e7e1df;
+  padding-left: 20px;
+}
+
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+
+
+}
+
+
+.list-group-item {
+
+  border: 1px solid #ddd;
+}
+
+a {
+  color: #2c2c2a;
+  text-decoration: none;
+}
+
+a {
+  color: #2c2c2a;
+  text-decoration: none;
+}
+
+a.list-group-item {
+  color: #555;
+}
+
+/* LATEST BULLETIN and */
+
+
+/* ......................... GRACE OUTREACH strat................... */
+.section-title {
+  text-align: center;
+  color: #53504c;
+  min-height: 40px;
+  margin-bottom: 40px;
+}
+
+h4 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.section-title h4:after {
+  position: absolute;
+  content: "";
+  left: 50%;
+  bottom: -12px;
+  width: 30px;
+  height: 4px;
+  background: #919191;
+  margin-left: -15px;
+}
+
+.section-title h4 {
+  position: relative;
+}
+
+h4 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.charity-box {
+  background: #f9f1e6;
+  overflow: hidden;
+}
+
+.charity-image {
+  width: 600px;
+  width: 420px;
+  margin-bottom: 0;
+  margin-right: 20px;
+
+}
+
+.charity-image img {
+  min-width: 100%;
+}
+
+.charity-desc {
+  padding: 15px;
+
+}
+
+.charity-desc h3 {
+  font-size: 28px;
+  color: #53504c;
+  margin: 0 0 5px;
+  margin-left: 10px;
+}
+
+
+/* ......................... GRACE OUTREACH and................... */
+
+/* ......................... OUR GALLERY strat................... */
+p {
+  line-height: 1.6;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+.link-reverse {
+  color: #e95d00;
+}
+
+a {
+  color: #2c2c2a;
+  text-decoration: none;
+}
+
+.pledged-amount {
+  font-size: 40px;
+  color: #53504c;
+  margin: 15px 0 5px;
+}
+
+.progress {
+  background-color: #d3cfcc;
+}
+
+
+.progress-bar-success {
+  background-color: #5cb85c;
+}
+
+.progress {
+  height: 20px;
+  width: 775px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+
+}
+
+.donate-now {
+  margin-left: 570px;
+}
+
+
+
+
+
+
+.img-gallery .fancybox img {
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.col-md-3 {
+  width: 25%;
+}
+
+/* ......................... OUR GALLERY and................... */
+
+
+
+
+
+.section-title h4 {
+  position: relative;
+  font-size: 20px;
+  font-family: montserrat, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.blockquote-centered {
+  font-family: 'droid serif', sans-serif;
+  font-size: 26px;
+  padding: 0 50px;
+  text-align: center;
+  color: #393939;
+  border: 0;
+  line-height: 1.6;
+  position: relative;
+}
+
+.blockquote small {
+  display: block;
+  font-size: 80%;
+  line-height: 1.42857143;
+  color: #777;
+
+}
+
+.blockquote-centered small {
+  padding: 15px 0;
+  display: block;
+  font-family: 'droid serif', sans-serif;
+
+}
+
+
+.blockquote-centered:before {
+  background: url(../image/asset\27.png) no-repeat;
+  position: absolute;
+  content: "";
+  width: 50px;
+  height: 50px;
+  color: #393939;
+
+}
+
+
+
+.highlight-bg {
+  background: #f9f1e6;
+  padding: 24px 0;
+}
+
+.section-title {
+  text-align: center;
+  color: #53504c;
+  min-height: 40px;
+  margin-bottom: 40px;
+}
+
+.section-title h4 {
+  position: relative;
+}
+
+h4 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.section-title h4:after {
+  position: absolute;
+  content: "";
+  left: 50%;
+  bottom: -12px;
+  width: 30px;
+  height: 4px;
+  background: #919191;
+  margin-left: -15px;
+}
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+susbcribe-head {
+  margin: 0;
+  text-align: left;
+}
+
+.susbcribe-head {
+  margin: 0;
+  line-height: 1.6;
+
+  margin-bottom: -75px
+}
+
+h5 {
+  font-size: 18px;
+  margin: 20px 0 13px;
+  color: #384047;
+}
+
+.susbcribe-head span {
+  display: block;
+}
+
+.susbcribe-head span {
+  color: #999085;
+  font-weight: 400;
+}
+
+.form-control {
+  border-radius: 3px;
+}
+
+.input-lg,
+.form-horizontal .form-group-lg .form-control {
+  height: 52px;
+  border-radius: 3px;
+}
+
+.input-lg,
+.form-horizontal .form-group-lg .form-control {
+  height: 55px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+  margin: 20px 280px;
+}
+
+.btn-primary {
+  color: #483f34;
+  background-color: #ffc55f;
+  border-color: #e7ad47;
+}
+
+.btn-lg,
+.btn-group-lg>.btn {
+
+  font-size: 17px;
+  line-height: 1.3;
+  border-radius: 4px;
+}
+
+.last-btn .btn {
+  font-family: montserrat, Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-left: 1000px;
+  padding: 5px 100px;
+  margin: 0px 965px;
+  margin-top: -121px;
+
+
+}
+
+footer {
+  background: #53504c;
+  color: #f9f1e6;
+  padding-top: 5px;
+}
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.copyright {
+  background: #494743;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-top: 35px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+footer p {
+  color: #ccc0c0;
+}
+
+p {
+  line-height: 1.6;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+.col-md-3 {
+  width: 25%;
+}
+
+footer h5 {
+  color: #f9f1e6;
+}
+
+h5 {
+  font-size: 18px;
+  margin: 20px 0 13px;
+  color: #384047;
+}
+
+footer p {
+  color: #ccc0c0;
+}
+
+p {
+  line-height: 1.6;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+h5 {
+  font-size: 18px;
+  margin: 20px 0 13px;
+  color: #384047;
+}
+
+footer a {
+  color: #ccc0c0;
+}
+
+.footer-links li {
+  border-bottom: 1px solid #666462;
+  padding: 5px;
+}
+
+.social-icons:hover {
+  background-color: #919191;
+  color: #555;
+
+}
+
+
+
+/* about */
+
+.subpage-head {
+  padding-top: 110px;
+}
+
+.subpage-head {
+  background-color: #f9f1e6;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+.subpage-head h3 {
+  color: #53504c;
+}
+
+h3 {
+  font-size: 45px;
+  margin: 15px 0;
+  word-spacing: -3px;
+  font-weight: 700;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+footer p {
+  color: #ccc0c0;
+}
+
+p {
+  line-height: 1.6;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+.col-md-3 {
+  width: 25%;
+}
+
+footer h5 {
+  color: #f9f1e6;
+}
+
+h5 {
+  font-size: 18px;
+  margin: 20px 0 13px;
+  color: #384047;
+}
+
+footer p {
+  color: #ccc0c0;
+}
+
+p {
+  line-height: 1.6;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+h5 {
+  font-size: 18px;
+  margin: 20px 0 13px;
+  color: #384047;
+}
+
+footer a {
+  color: #ccc0c0;
+}
+
+.footer-links li {
+  border-bottom: 1px solid #666462;
+  padding: 5px;
+}
+
+.social-icons:hover {
+  background-color: #919191;
+  color: #555;
+
+}
+
+
+/* ministry */
+
+
+
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #eee;
+}
+
+
+.has-margin-xs-bottom {
+  margin-bottom: 30px;
+}
+
+.img-responsive,
+.thumbnail>img,
+.thumbnail a>img,
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+  display: block;
+  width: 100% \9;
+  max-width: 100%;
+  height: auto;
+}
+
+img {
+  vertical-align: middle;
+}
+
+img {
+  border: 0;
+}
+
+.has-border {
+  border: 1px solid #eadeda;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.has-margin-bottom {
+  margin-bottom: 50px;
+}
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+
+
+
+.section-title {
+  text-align: center;
+  color: #53504c;
+  min-height: 40px;
+  margin-bottom: 40px;
+}
+
+.has-padding-xs-top {
+  padding-top: 10px;
+}
+
+.has-padding-bottom {
+  padding-bottom: 20px;
+}
+
+.highlight-bg {
+  background: #f9f1e6;
+  padding: 24px 0;
+}
+
+.section-title h4 {
+  position: relative;
+}
+
+h4 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.el-Ministry{
+  text-align: center;
+}
+
+.has-margin-xs-bottom {
+  margin-bottom: 30px;
+}
+
+.el-Ministry h4 {
+  position: relative;
+  color: #53504c;
+}
+
+h4 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.el-head {
+  color: #53504c;
+  font-size: 18px;
+  margin: 20px 0 5px;
+}
+
+p {
+  line-height: 1.6;
+}
+
+.el-cta {
+  margin: 15px 0;
+}
+
+p {
+  line-height: 1.6;
+}
+
+.btn-primary {
+  color: #483f34;
+  background-color: #ffc55f;
+  border-color: #e7ad47;
+}
+
+.btn {
+  font-family: montserrat, Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  color: #483f34;
+  background-color: #ffc55f;
+  border-color: #e7ad47;
+}
+
+.btn-lg,
+.btn-group-lg>.btn {
+
+  font-size: 17px;
+  line-height: 1.3;
+  border-radius: 4px;
+}
+
+.last-btn .btn {
+  font-family: montserrat, Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-left: 1000px;
+  padding: 5px 100px;
+  margin: 0px 965px;
+  margin-top: -121px;
+}
+
+
+/* Sermon */
+
+.col-md-9 {
+  width: 75%;
+}
+
+#horizon {
+  display: table;
+  height: 100%;
+  position: static;
+  width: 100%;
+}
+
+#sun{
+  display: table-cell;
+  vertical-align: middle;
+  position: static;
+  margin: 0 auto;
+}
+
+/* contact */
+
+.btn-contact{
+margin-bottom: -50px;
+}
+.btn-primary{
+  color: #483f34;
+  background-color: #ffc55f;
+  border-color: #e7ad47;
+  padding: 14px 25px;
+  font-size: 17px;
+  line-height: 1.3;
+  border-radius: 4px;
+}
+
+label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+
+.location-map iframe{
+  width: 100%;
+  height: 260px;
+  border: 0;
+  margin-top: 35px;
+}
+
+
+
+
+
